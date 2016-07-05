@@ -28,6 +28,7 @@ nav a {
 
 .social i {
     padding: 10px;
+    color: white;
 }
 
 .content {
@@ -56,5 +57,37 @@ h1 {
     font-weight: 100;
 }
 
-s
+h2 {
+    background-color: #fff;
+    height: 50px;
+    width: 200px;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 15px;
+    margin-left: 500px;
+    line-height: 50px;
+    padding-left: 100px;
+}
+
+.col-1 {
+    width: 50%;
+    float: left;
+    height: 600px;
+    background-color: #fff;
+    color: #000;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Titillium Web', sans-serif;
+    padding-top: 120px;
+    margin-left: 50px;
+}
+
+.col-2 {
+    width: 50%;
+    float: left;
+    height: 800px;
+    background-color: #F63C3C;
+}
+
+.clear {
+    clear: both;
 }
